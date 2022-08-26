@@ -1,0 +1,10 @@
+fun main() {
+  // Write your code below 
+var favSong = "Sabaton - Stormtroopers"
+val Duration = 3
+var isListening= true
+
+println(favSong)
+println("Duration: " + Duration + " Minutes")
+println("Currently Listening? " + isListening)
+}
